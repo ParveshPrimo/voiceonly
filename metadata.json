@@ -1,0 +1,8 @@
+{
+  "name": "Nova: Voice AI Companion",
+  "description": "A sophisticated, voice-first AI assistant powered by Tavus, designed for natural human-like conversations and live calls.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
