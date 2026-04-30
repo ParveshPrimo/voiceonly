@@ -56,7 +56,6 @@ export default function App() {
         },
         body: JSON.stringify({
           persona_id: import.meta.env.VITE_PERSONA_ID,
-          custom_greeting: "Hello! I'm Nova. I'm ready to talk.",
           audio_only: true,
           properties: { max_call_duration: 3600 },
         }),
