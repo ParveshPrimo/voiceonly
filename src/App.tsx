@@ -140,7 +140,7 @@ export default function App() {
           </span>
         </div>
         <div className="text-xl font-light tracking-[0.2em] italic uppercase">
-          Nova
+          
         </div>
         <div className="font-mono opacity-40">{formatTime(time)}</div>
       </div>
